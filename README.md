@@ -58,7 +58,7 @@ ahead a create a file `tests.php` like this:
 Then you just run it from the command line like this:
 
 ```
-php test.php
+php tests.php
 ```
 
 See, you just write assertions surrounded by an initializer and a finalizer.  And 
