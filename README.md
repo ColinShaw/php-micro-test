@@ -2,8 +2,10 @@
 
 This is an incredibly small and not very featureful testing framework for 
 cases when you want to perform tests but don't want to mess around with
-things like PHPUnit.  Or when you wonder what is so special about other testing
-tools and would like to see an extremely simple alternative.
+things like PHPUnit, for use in extreme cases when you need to use PHP.  Or 
+when you simply wonder what is so endearing and special about certain popular 
+testing tools and would like to see an extremely simple alternative since 
+testing should be simple and something that is more often practiced.
 
 
 
